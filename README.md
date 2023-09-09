@@ -15,6 +15,6 @@ This is a 3D Kinect game made with Unity as part of a physical therapy study tha
   - Download the 'BUILD_FINAL' folder
   - Run the 'Lower Limb Rehabilitation - THE GAME.exe' file
   - You should see the main menu now, and your Kinect's camera on the center of the screen:
-  - ![MainMenu](https://github.com/KleberDotNet/LowerLimbRehabilitation/images/mainmenu.png "Initial screen")
+  - ![MainMenu](https://github.com/KleberDotNet/LowerLimbRehabilitation/tree/main/images/mainmenu.png "Initial screen")
 
 ### About the development
